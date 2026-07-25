@@ -1,0 +1,6 @@
+{
+  "name": "Método Bebê Zen",
+  "description": "Página de vendas do Método Bebê Zen - Curso de massagem e rotina relaxante para pais de recém-nascidos e bebês de 0 a 6 meses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
